@@ -40,7 +40,7 @@ const AppNav = ({
             className="navbar-brand mr-4 text-default "
             to={`/profile/${userId}`}
           >
-            UTRIAO
+            FACEAPP
           </Link>
           <button
             className="navbar-toggler"

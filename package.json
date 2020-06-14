@@ -1,7 +1,7 @@
 {
-  "name": "utriao",
+  "name": "faceapp",
   "version": "1.0.0",
-  "description": "Utriao Social App",
+  "description": "FACEAPP Social App",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run server \" \"npm run client\" "
   },
   "keywords": [],
-  "author": "Usama Bilal",
+  "author": "Ryma Nait Amara",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",

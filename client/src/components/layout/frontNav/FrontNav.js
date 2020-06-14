@@ -9,7 +9,7 @@ const Nav = () => {
     <div className="container my-4 ">
       <nav className="navbar navbar-expand navbar-dark  bg-muted">
         <Link className="navbar-brand" to="/login">
-          <h3 className="border-right border-danger px-2 ">UTRIAO</h3>
+          <h3 className="border-right border-danger px-2 ">FACEAPP</h3>
         </Link>
         <ul className="navbar-nav mr-auto">
           <li className="nav-item ">
